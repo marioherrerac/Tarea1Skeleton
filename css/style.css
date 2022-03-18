@@ -1,0 +1,136 @@
+.masthead{
+           background: url("../images/masthead.png") no-repeat center;
+           height: 462px;
+           background-size: cover;
+          }
+
+.rewardingContent {
+           margin-top:10px;
+}
+
+.rewardingImg {
+           width: 75%;
+           margin: 0 auto;
+           display: block;
+}
+
+.rewardingContent,.hiredContent,.workEfficiency,.getPaid{
+           margin-top:10px;
+          }
+          .rewardingImg,.hiringImg,.messagingImg,.paidImg {
+           width: 75%;
+           margin: 0 auto;
+           display: block;
+}
+
+/* fake site styles**/
+#pc{
+background: url("../images/notebook.jpg") no-repeat center;
+height: 480px;
+background-size: cover;  
+}
+
+#desktop{
+display: block;
+margin-top: 45px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 45px;
+ width: 700px;
+ height: 390px;
+}
+
+#payments{
+           margin-left: 350px;
+           margin-right: 350px;
+           display: block;          
+}
+
+p.small-label{
+           font-size: 12px;
+           margin: 0;
+           opacity: .8;
+           padding: 0;
+           text-align: center;     
+           }
+
+#payments p.small-label{
+margin: 0;
+font-size: 12px;
+opacity: .8;
+padding: 0;
+text-align: left;     
+}
+
+#appcenter{
+background-color:#7239b3;
+padding-left: 25px;
+}
+
+#divImg1{
+width: 100%;
+height:550px;
+margin: 0 auto;
+display: block;
+}
+
+#divImg2{
+width: 15%;
+margin: 0 auto;
+display: block;
+} 
+
+#divImg3{
+width: 105%;
+margin: 0 auto;
+display: block;
+} 
+
+#child{
+width:10%;
+margin: 0 0, auto;
+padding: 0;
+}
+
+.white{
+color:white;
+}
+
+.whiteBtn{
+background-color: white;
+color: #7239b3;
+}
+
+.purpleBtn{
+background-color: #7239b3;
+color: white;
+}
+
+#parenting{
+text-align: left;
+font-size: 2em;
+margin: 2 2 16px;
+padding: 0;
+}
+
+.subtitile{
+font-size: 25px;
+}
+
+#opensource{
+padding: 40px;
+margin: 40px;
+text-align: center;    
+}
+
+.open{
+font-size: 1.25em;
+line-height: 1.33;
+}
+
+.skyblue{
+padding: 80px;
+margin: 80px;
+text-align: center;
+color: purple;
+}
